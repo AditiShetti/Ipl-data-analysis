@@ -8,5 +8,5 @@ The columns are 'id', 'season', 'city', 'date', 'team1', 'team2', 'toss_winner',
        'toss_decision', 'result', 'dl_applied', 'winner', 'win_by_runs',
        'win_by_wickets', 'player_of_match', 'venue', 'umpire1', 'umpire2', 'umpire3'
        
-For any questions or feedback, feel free to reach out.😊
+For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
 
