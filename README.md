@@ -1,6 +1,7 @@
 # Ipl-data-analysis
 
-This is a data analysis of the IPL . The csv file is from Great Learning . I have practiced python data analysis libraries like Pandas and Matplotlib .
+This is a data analysis of the IPL . The csv file is from Great Learning .
+ I have practiced python data analysis libraries like Pandas and Matplotlib .
 
 There are 18 columns and 756 rows in this dataset.
 
